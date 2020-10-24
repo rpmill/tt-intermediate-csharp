@@ -5,3 +5,5 @@ This course builds on what we learned in C# Objects. We'll learn more essential 
 as we improve the Treehouse Defense game.
 
 2020-10-21: Learned polymorphism. Added new invaders and towers to the game.
+
+2020-10-23: Learned overriding methods like ToString and Equals
